@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a social media web app for music producers to share, discuss and critique their's works
+- 🌱 I’m excited about learning
+- 
